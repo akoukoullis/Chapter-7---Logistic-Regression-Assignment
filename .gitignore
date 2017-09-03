@@ -1,0 +1,14 @@
+# Include your project-specific ignores in this file
+# Read about how to use .gitignore: https://help.github.com/articles/ignoring-files
+*~
+*.log
+.DS_Store
+Thumbs.db
+.Rhistory
+.RData
+raw_data/
+.Rproj.user/
+.Rproj.user
+*.Rproj
+README.txt
+Rtips.pdf
